@@ -1,0 +1,300 @@
+body{
+    background: linear-gradient(120deg,#d87093, #d87093);
+
+}
+#des{
+    background-color: white;
+    height: 50px;
+    width: 300px;
+    padding-left: 15px;  
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 38%;
+    left:38%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px palegoldenrod;
+    z-index: 1;
+}
+#fall{
+    position: absolute;
+    top: 53%;
+    left: 38%;
+    height: 80px;
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 3px palegoldenrod;
+    font-size: 20px;
+}
+#fall:hover{
+    background-color: #640424;
+    color: #f4edec;
+      
+}
+
+#ded{
+    position: absolute;
+    top: 42.5%;
+    left: 58.9%;
+    color: gray;
+    font-size: 15px;
+    z-index: 2;
+}
+#ded:hover{
+    color: #640424;
+   
+}
+.so{
+    background-color: white;
+    height:50px ;
+    width: 50px;
+    position: absolute;
+    top: 30%;
+    left: 88%;
+
+}
+.cl{
+    display: none;
+}
+.de{
+    background-color: blue;
+}
+.asw{
+    background-color: #f4edec;
+    height: 50px;
+    width: 300px;
+    color: #640424;
+    padding-left: 15px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    position: absolute;
+    left: -60%;
+    top: 20%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px beige;
+      
+}
+.pas{
+    position: absolute;
+    top: 20%;
+    left: 36%;
+    font-size: 35px;
+    color: #640424;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px;
+}
+
+
+@keyframes afa {
+    100%{left: 40%;}
+    
+}
+@media screen and (max-width:700px){
+    #des{
+        
+    
+        position: absolute;
+        top: 28%;
+        left: 10%;
+        
+    }
+    #fall{
+        position: absolute;
+        top: 43%;
+        left: 10%;
+       
+    }
+    .pas{
+        position: absolute;
+        top: 10%;
+        left: 5%;
+        
+    }
+    .asw{
+        
+        position: absolute;
+        left: -90%;
+        top: 80%;
+        
+
+}
+@keyframes afa {
+    100%{left: 10%;}
+    
+}
+}
+@media screen and (max-width:1120px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 63.9%;
+       
+    }
+}
+@media screen and (max-width:1060px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 64.9%;
+       
+    }
+}
+@media screen and (max-width:1000px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 66.9%;
+       
+    }
+}
+@media screen and (max-width:925px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 68.9%;
+       
+    }
+}
+@media screen and (max-width:925px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 68.9%;
+       
+    }
+}
+@media screen and (max-width:852px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 71.9%;
+       
+    }
+}
+@media screen and (max-width:770px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 75.9%;
+       
+    }
+}
+@media screen and (max-width:770px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 75.9%;
+       
+    }
+}
+@media screen and (max-width:770px){
+    #ded{
+        position: absolute;
+        top: 42.5%;
+        left: 75.9%;
+       
+    }
+}
+@media screen and (max-width:700px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 50.9%;
+       
+    }
+}
+@media screen and (max-width:700px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 50.9%;
+       
+    }
+}
+@media screen and (max-width:650px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 54.9%;
+       
+    }
+}
+@media screen and (max-width:566px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 60.9%;
+       
+    }
+}
+@media screen and (max-width:500px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 66.9%;
+       
+    }
+}
+@media screen and (max-width:437px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 76.9%;
+       
+    }
+}
+@media screen and (max-width:370px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 86.9%;
+       
+    }
+}
+@media screen and (max-width:382px){
+    #ded{
+        position: absolute;
+        top: 32.5%;
+        left: 86.6%;
+       
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
